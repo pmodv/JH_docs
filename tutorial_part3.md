@@ -31,6 +31,4 @@ In this last part of the tutorial, we will:
 
 ## Objective 1 - Load the Data ##
 
-
-
-
+Recall in `Part 2`, we *shared* our project, `Demo - 3 Variable Model` 
